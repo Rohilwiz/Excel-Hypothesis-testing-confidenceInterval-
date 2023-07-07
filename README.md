@@ -1,2 +1,2 @@
 # Excel-Hypothesis-testing-confidenceInterval-
-Did Salary gap analysis among employees by hypothesis testing.
+Did Gender pay gap analysis among employees by hypothesis testing.
